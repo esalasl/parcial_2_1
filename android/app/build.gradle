@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.diisckeleton"
+    namespace "com.parcial_2_1"
     defaultConfig {
-        applicationId "com.diisckeleton"
+        applicationId "com.parcial_2_1"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

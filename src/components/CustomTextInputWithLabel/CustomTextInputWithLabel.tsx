@@ -1,10 +1,10 @@
-import React, {userState} from 'react';
-import {Text, TextInput, View, StyleSheet} from 'react-native';
+import React, {useState} from 'react';
+import {Text, TextInput, View} from 'react-native';
 
 export type CustomTextInputWithLabelProps = {};
 
 const CustomTextInputWithLabel = ({}: CustomTextInputWithLabelProps) => {
-  return <></>;
+  return <View>{}</View>;
 };
 
 export default CustomTextInputWithLabel;

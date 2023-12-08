@@ -1,10 +1,11 @@
 import React from 'react';
-import {Button, Text, View, StyleSheet} from 'react-native';
+import {Text, View} from 'react-native';
+import CustomButton from '../CustomButton/CustomButton';
 
 export type WelcomeContainerProps = {};
 
 const WelcomeContainer = ({}: WelcomeContainerProps) => {
-  return <></>;
+  return <View>{}</View>;
 };
 
 export default WelcomeContainer;

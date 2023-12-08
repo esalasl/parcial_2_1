@@ -1,4 +1,4 @@
-package com.diisckeleton;
+package com.parcial_2_1;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

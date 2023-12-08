@@ -1,10 +1,10 @@
 import React from 'react';
-import {Text, Button, View, StyleSheet} from 'react-native';
+import {Text, Button, View} from 'react-native';
 
 export type CustomButtonProps = {};
 
 const CustomButton = ({}: CustomButtonProps) => {
-  return <></>;
+  return <View>{}</View>;
 };
 
 export default CustomButton;
